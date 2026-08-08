@@ -205,7 +205,6 @@ After completing this project, I learned:
 ---
 
 ## Author
-
-Mohit Bhandari
+Pravesh mishra
 
 Python Functions & Dictionaries Project
