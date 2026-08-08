@@ -1,0 +1,50 @@
+{
+    "Mohit Bhandari": {
+        "phone": "9899754125",
+        "email": "mohitbhandari@gmail.com",
+        "address": "Haryana , faridabad",
+        "group": "family",
+        "created_at": "2026-07-02T13:19:12.943688",
+        "updated_at": "2026-07-02T13:19:12.943738"
+    },
+    "Shaziya Malik": {
+        "phone": "78545967458",
+        "email": "shaziya@gmail.com",
+        "address": "Dehradun",
+        "group": "Family",
+        "created_at": "2026-07-02T13:20:00.655352",
+        "updated_at": "2026-07-02T13:20:00.655367"
+    },
+    "Sachin": {
+        "phone": "9685746958",
+        "email": "Sachin@gmail.com",
+        "address": "Delhi",
+        "group": "Friends",
+        "created_at": "2026-07-02T13:20:32.085605",
+        "updated_at": "2026-07-02T13:27:46.024267"
+    },
+    "chandani": {
+        "phone": "7858697425",
+        "email": "Chandani@gmail.com",
+        "address": "Dehradun",
+        "group": "Friends",
+        "created_at": "2026-07-02T13:21:31.852417",
+        "updated_at": "2026-07-02T13:21:31.852434"
+    },
+    "istekhar": {
+        "phone": "8547693254",
+        "email": "istekhar@gmail.com",
+        "address": "haryana",
+        "group": "friends",
+        "created_at": "2026-07-06T19:35:51.291315",
+        "updated_at": "2026-07-06T19:35:51.291381"
+    },
+    "Rohit": {
+        "phone": "9568425136",
+        "email": "rohit@gmail.com",
+        "address": "Delhi uttam nagar",
+        "group": "other",
+        "created_at": "2026-07-16T14:20:47.077636",
+        "updated_at": "2026-07-16T14:20:47.078445"
+    }
+}
